@@ -1,0 +1,8 @@
+Command + S = Guardar
+Command + C = Copiar
+Command + V = Pega
+Command + X = Corta
+Command + Y = Rehacer
+Command + Z = Deshacer
+Option + Z = Text wrap (Ajuste de texto)
+Option + Shift + A = Comentario
